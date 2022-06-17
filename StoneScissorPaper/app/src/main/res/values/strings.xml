@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">StoneScissorPaper</string>
+    <string name="human_choice">Human Choice</string>
+</resources>
